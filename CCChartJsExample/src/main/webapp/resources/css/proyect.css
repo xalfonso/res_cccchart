@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 25, 2016, 1:01:10 PM
+    Author     : Eduardo
+*/
+
+/*div{
+    padding: 10px;
+    background-color: #269abc;
+    border-width: .1em;
+    border-style: dashed;
+    border-color: white;    
+}*/
+
+/**{
+    border: darkblue dashed 2px;
+}*/
+
+
+#bodyDasboardContentDiv{
+    margin-left: auto;
+    margin-right: auto;  
+    width: 80%;
+}
+
+
+#bodyDasboardContentDiv .three{
+    width: 30%; 
+    margin-left: 15px;
+
+}
+
+#bodyDasboardContentDiv .divGrafica2{      
+    margin-left: 15px;
+    width: 48%;
+}
+
+#bodyDasboardContentDiv .divGrafica{
+    width: 100%;
+    
+}
+
+svg{
+    margin-left: auto;
+    margin-right: auto;  
+}
